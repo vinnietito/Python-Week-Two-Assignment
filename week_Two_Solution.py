@@ -19,4 +19,8 @@ my_list.pop()
 #Step 6: Sort my_list in scending order
 my_list.sort()
 
+#Step 7: FInd and print the index of the value 30 in my_list
+index_of_30 = my_list.index(30)
+print("Index of 30:", index_of_30)
+
 print(my_list)
