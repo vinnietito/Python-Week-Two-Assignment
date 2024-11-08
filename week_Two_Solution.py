@@ -16,4 +16,7 @@ my_list.extend([50, 60, 70])
 #Step 5: Remove the last element form my_list
 my_list.pop()
 
+#Step 6: Sort my_list in scending order
+my_list.sort()
+
 print(my_list)
