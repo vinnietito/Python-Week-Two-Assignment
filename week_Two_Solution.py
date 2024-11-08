@@ -13,4 +13,7 @@ my_list.insert(1, 15)
 #Step 4: Extend my_list with another list: [50, 60, 70]
 my_list.extend([50, 60, 70])
 
+#Step 5: Remove the last element form my_list
+my_list.pop()
+
 print(my_list)
