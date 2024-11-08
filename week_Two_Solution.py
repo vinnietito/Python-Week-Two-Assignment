@@ -9,3 +9,8 @@ my_list.append(40)
 
 #Step 3: Insert the value 15 at the second position in the list (index 1)
 my_list.insert(1, 15)
+
+#Step 4: Extend my_list with another list: [50, 60, 70]
+my_list.extend([50, 60, 70])
+
+print(my_list)
